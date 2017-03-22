@@ -24,6 +24,7 @@
     </description>
   </property>
 
+<!--
   <property>
     <name>hadoop.security.keystore.java-keystore-provider.password-file</name>
     <value>kms.keystore.password</value>
@@ -31,6 +32,7 @@
       If using the JavaKeyStoreProvider, the file name for the keystore password.
     </description>
   </property>
+-->
 
   <!-- KMS Cache -->
 
