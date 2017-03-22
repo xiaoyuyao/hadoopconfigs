@@ -21,4 +21,9 @@
   <name>fs.defaultFS</name>
   <value>hdfs://HW11717.local/</value>
 </property>
+<property>
+  <name>dfs.encryption.key.provider.uri</name>
+  <value>kms://http@HW11717.local:9600/kms</value>
+</property>
+
 </configuration>

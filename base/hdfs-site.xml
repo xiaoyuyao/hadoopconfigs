@@ -34,5 +34,9 @@
         <value>1</value>
         <description>Number of replication for each chunk.</description>
     </property>
-        
+
+    <property>
+       <name>dfs.encryption.key.provider.uri</name>
+       <value>kms://http@W11717.local:9600/kms</value>
+    </property>        
 </configuration>
